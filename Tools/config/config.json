@@ -1,0 +1,14 @@
+{
+    "GeneralLinks": 
+    {
+        "location" : "C:/Program Files/Steam/",
+        "scripts" : "C:/Program Files/Steam/BlueTeamScripts/"
+        
+    },
+    "LoggingLocations" :
+    {
+        "general" : "C:/Program Files/Steam/BlueTeamScripts/Logging/",
+        "UserUpdatesFinal" : "C:/Program Files/Steam/BlueTeamScripts/Logging/UserUpdates/",
+        "UserUpdates" : "C:/Users/neptu/Desktop/BlueTeamScripts/Logging/UserUpdates/"
+    }
+}
