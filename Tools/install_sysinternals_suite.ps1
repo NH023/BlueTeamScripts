@@ -2,8 +2,8 @@
 # https://download.sysinternals.com/files/SysinternalsSuite.zip
 
 $sys_internals_link = "https://download.sysinternals.com/files/SysinternalsSuite.zip"
-$extraction_path = "C:/Program Files/Testing/Tooly"
-$download_path = "C:/Program Files/Testing/Internal.zip"
+$extraction_path = "C:/Program Files/Steam/Tooly"
+$download_path = "C:/Program Files/Steam/Internal.zip"
 
 #requires -runAsAdministrator
 
