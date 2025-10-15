@@ -1,6 +1,8 @@
 # This will download the windows sys internals suite
 # https://download.sysinternals.com/files/SysinternalsSuite.zip
 
+# About 253.4 Million Bytes
+
 $sys_internals_link = "https://download.sysinternals.com/files/SysinternalsSuite.zip"
 $extraction_path = "C:/Program Files/Steam/Tooly"
 $download_path = "C:/Program Files/Steam/Internal.zip"
