@@ -1,5 +1,11 @@
 # Blue Team Scripts
 
+
+
+
+ # must be sexy to run scripts
+ 
+ 
 ## Important Scripts
 > `repo_download.ps1` > Download Scripts to a Desired Folder \
 > Requirements: git, administrator
