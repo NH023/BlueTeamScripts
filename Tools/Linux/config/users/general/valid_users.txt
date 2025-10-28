@@ -1,3 +1,4 @@
 whiteteam
 dd-agent
 datadog
+wazuh
